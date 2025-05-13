@@ -113,7 +113,7 @@ const getNamesSortedByFriendsCount = users => {
 };
 
 console.log(getNamesSortedByFriendsCount(users));
-
+add
 
 
 
